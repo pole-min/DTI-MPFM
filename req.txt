@@ -1,0 +1,5 @@
+scikit-learn
+pandas
+numpy==1.21
+deepctr
+subword_nmt
